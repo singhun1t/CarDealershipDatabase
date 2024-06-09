@@ -25,6 +25,7 @@ Use SQL workbench to setup a database along with queries.
 
 ## Demo
 
+![sql gif](https://github.com/singhun1t/CarDealershipDatabase/assets/16910183/99d3bf13-4fb5-4f87-b9e2-9cd4423fde40)
 
 
 
